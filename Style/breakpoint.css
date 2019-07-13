@@ -1,0 +1,75 @@
+@media only screen and (max-width: 600px) {
+   .heroContent {
+      margin-top: 15vh;
+      width: 90%;
+  }
+  .heroContent h1 {
+   font-weight: 600;
+   font-size: 8vh;
+   }
+
+
+   .sectionContent .columnHalf {
+      width: 100%;
+      padding-top: 5px;
+      margin-top: 25vh;
+      text-align: center;
+  }
+   .sectionContent .column {
+      width: 100%;
+      margin-top: 5vh;
+      line-height: 5vh;
+      text-align: center;
+  }
+
+
+  .sectionContentThird .columnChallenges {
+   width: 100%;
+   height: auto;
+   padding: 0vh;
+   text-align: center;
+  }
+  .sectionContentThird .columnChallenges h1{
+      margin-top: 10vh;
+   }
+  .sectionContentThird .columnChallenges p{
+      margin: 10vh;
+   }
+
+
+   .sectionContentThird .columnSolutions {
+   width: 100%;
+   height: auto;
+   padding: 0vh;
+   text-align: center;
+  }
+  .sectionContentThird .columnSolutions p{
+   margin: 10vh;
+  }
+  .sectionContentThird .columnSolutions h1{
+   margin-top: 10vh;
+  }
+
+
+  .sectionStudies {
+   height: 120vh;
+   }
+   .sectionContentStudies {
+      padding: 10vh;
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin-top: 55vh;
+  }
+
+
+  .sectionFooterBottom {
+   height: 40vh;
+   background: #111111;
+   }
+  .sectionFooterBottomContent .column {
+   width: 100%;
+   padding: 0vh;
+   text-align: center;
+}
+ }
